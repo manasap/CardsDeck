@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CardsDeck.iml" filepath="$PROJECT_DIR$/.idea/modules/CardsDeck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CardsDeck_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CardsDeck_main.iml" group="CardsDeck" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CardsDeck_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CardsDeck_test.iml" group="CardsDeck" />
+    </modules>
+  </component>
+</project>
